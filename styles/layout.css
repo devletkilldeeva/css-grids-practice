@@ -66,7 +66,7 @@
   display: none;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .container {
         grid-template-areas:
             "m h h h h h h h h h h h"
